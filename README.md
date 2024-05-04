@@ -14,12 +14,12 @@ There are 2 clusters with only 1 value each, and clusters are not easy to differ
 We then used the PCA function from sklearn to reduce the dimensionality of the data into 3 components. 
 
 The elbow curve with the PCA data was very different to the original scaled data. 
-![image](https://github.com/andymatsuura/CryptoClustering/assets/150174589/41274f45-0cef-4393-aa34-fdd2f038a971)
-This elbow graph shows the optimal clusters to be 2.
+![image](https://github.com/andymatsuura/CryptoClustering/assets/150174589/0dbc05fd-60e4-40c9-873e-7b65afd1ca92)
+This elbow graph shows the optimal clusters to be 4 as well.
 
 This is the cluster data from the PCA data. 
-![image](https://github.com/andymatsuura/CryptoClustering/assets/150174589/2ceda675-fbce-4dc7-ae00-17d8f04e4f2f)
-The clusters look more precise and there are fewer cluster groups
+![image](https://github.com/andymatsuura/CryptoClustering/assets/150174589/a9f37e0f-789d-4133-97d6-ddd3367246d0)
+The clusters look more precise and the 2 outlier cluster groups are more distinct
 
 ## Conclusion
 
